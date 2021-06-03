@@ -2,6 +2,8 @@
 description: Welcome to SEI 412!
 ---
 
+Gitbook link - https://romebell.gitbook.io/sei-412
+
 # Introduction
 
  You are officially a `Software Engineer`.
